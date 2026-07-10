@@ -1,8 +1,10 @@
 ﻿{
     "mcpServers":  {
                        "obsidian":  {
-                                        "command":  "C:\\Users\\kaopi\\AppData\\Roaming\\npm\\mcpvault.cmd",
+                                        "command":  "C:\\Program Files\\nodejs\\npx.cmd",
                                         "args":  [
+                                                     "-y",
+                                                     "@bitbonsai/mcpvault@latest",
                                                      "G:\\我的雲端硬碟\\secondbrain"
                                                  ]
                                     }
