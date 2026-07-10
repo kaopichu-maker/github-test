@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Project Initializer"
+  short_description: "Initialize Codex project files and folders"
+  default_prompt: "Use $codex-project-initializer to initialize this folder as a project with README, AGENTS, TODO, PROGRESS, and standard folders."
